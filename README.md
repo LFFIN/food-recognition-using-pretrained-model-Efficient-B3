@@ -33,9 +33,9 @@ Submissions are evaluated using the **Micro F1-score**, comparing predicted labe
 
 
 
-## 📄 Submission Format
+##  Submission Format
 
-Your submission must be a CSV file with the following format:
+Submission must be a CSV file with the following format:
 
 * First column → **Filename** (test image name)
 * Next 498 columns → **binary predictions (0/1)** for each food class
