@@ -1,4 +1,4 @@
-# food-recognition-using-pretrained-model-Efficient-B3
+# Food-recognition-using-pretrained-model-Efficient-B3
 
 
 # Food Recognition Challenge (Multi-Label Classification)
