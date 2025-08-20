@@ -82,41 +82,6 @@ I used **transfer learning** with a **pretrained EfficientNet-B3 model**, fine-t
    * Achieved strong performance with a competitive **Micro F1 score**
 
 
-##  How to Run
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/yourusername/food-recognition-challenge.git
-   cd food-recognition-challenge
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Train the model:
-
-   ```bash
-   python src/train.py
-   ```
-
-4. Generate predictions:
-
-   ```bash
-   python src/inference.py --weights models/efficientnet_b3.pth
-   ```
-
-5. Create submission file:
-
-   ```bash
-   python src/evaluate.py --predictions predictions.csv
-   ```
-
----
-
 ##  Future Improvements
 
 * Model ensembling (EfficientNet, ResNet, DenseNet)
