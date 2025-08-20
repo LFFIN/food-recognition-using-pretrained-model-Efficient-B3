@@ -1,7 +1,7 @@
 # food-recognition-using-pretrained-model-Efficient-B3
 
 
-# 🍽 Food Recognition Challenge (Multi-Label Classification)
+# Food Recognition Challenge (Multi-Label Classification)
 
 ##  Overview
 
