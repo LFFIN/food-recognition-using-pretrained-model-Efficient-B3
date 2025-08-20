@@ -68,6 +68,7 @@ I used **transfer learning** with a **pretrained EfficientNet-B3 model**, fine-t
    * Base model: **EfficientNet-B3** (ImageNet pretrained)
    * Final layer adapted to **498 output nodes** with `sigmoid` activation
    * Loss function: **Binary Cross-Entropy**
+   * Epochs: 26
    * Optimizer: **AdamW**
 
 3. **Training Strategy**
@@ -78,8 +79,8 @@ I used **transfer learning** with a **pretrained EfficientNet-B3 model**, fine-t
 
 4. **Results**
 
-   * Best performing model: **EfficientNet-B3**
-   * Achieved strong performance with a competitive **Micro F1 score**
+   * Best performing model: **EfficientNet-B3**   
+   * Achieved strong performance with a competitive **Micro F1 score**    **51%**
 
 
 ##  Future Improvements
