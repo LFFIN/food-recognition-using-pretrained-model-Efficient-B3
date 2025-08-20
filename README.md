@@ -15,7 +15,6 @@ This repository contains my work for the **Food Recognition Challenge**, an in-c
   * **End:** June 20, 2025
 
 
-
 ## 🗂 Dataset
 
 The dataset is derived from the **AIcrowd Food Recognition Benchmark (2022)**.
@@ -53,7 +52,7 @@ Filename,0,1,2,3,...,497
 
 
 
-## 🧑‍💻 My Approach
+## My Approach
 
 I used **transfer learning** with a **pretrained EfficientNet-B3 model**, fine-tuned for this multi-label classification task.
 
@@ -83,7 +82,7 @@ I used **transfer learning** with a **pretrained EfficientNet-B3 model**, fine-t
    * Achieved strong performance with a competitive **Micro F1 score**
 
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repo:
 
@@ -118,7 +117,7 @@ I used **transfer learning** with a **pretrained EfficientNet-B3 model**, fine-t
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Model ensembling (EfficientNet, ResNet, DenseNet)
 * Advanced augmentation (Mixup, CutMix)
@@ -127,7 +126,7 @@ I used **transfer learning** with a **pretrained EfficientNet-B3 model**, fine-t
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * [AIcrowd Food Recognition Benchmark](https://www.aicrowd.com/challenges/food-recognition-benchmark)
 * PyTorch team & open-source community
